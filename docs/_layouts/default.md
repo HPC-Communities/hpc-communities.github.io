@@ -1,5 +1,8 @@
-{% include navbar.md %}
+{% include header.html %}
+{% include navbar.html %}
 
-<h1>{{ page.title }}</h1>
+    <h1>{{ page.title }}</h1>
 
-{{ content }}
+    {{ content }}
+
+{% include footer.html %}
