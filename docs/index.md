@@ -1,8 +1,8 @@
-# About HPC Communities
+# HPC Communities
 
 <img src="{{site.url}}/images/CASC-and-HPC-SIG.png" style="display: block; margin: auto;" />
 
-HPC Communities is an international collaboration founded by US Coalition for Academic Scientific Computation (CASC) and the UK High Performance Computing Special Interest Group (HPC-SIG).
+HPC Communities is an international collaboration founded by US [Coalition for Academic Scientific Computation (CASC)](http://casc.org/) and the UK [High Performance Computing Special Interest Group (HPC-SIG)](https://hpc-sig.org.uk).
 
 # Events
 
