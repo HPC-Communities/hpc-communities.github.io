@@ -4,5 +4,5 @@
 
 HPC Communities is an international collaboration founded by US Coalition for Academic Scientific Computation (CASC) and the UK High Performance Computing Special Interest Group (HPC-SIG).
 
-We organise [[events]] where HPC organisations around the world can collaborate together, share their ideas and challenges and discuss issues such as sustainability.
+We organise <a href="events.html" title="Events">events</a> where HPC organisations around the world can collaborate together, share their ideas and challenges and discuss issues such as sustainability.
 
