@@ -3,3 +3,16 @@ description: Helping HPC Communities help each other
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+
+lsi: false
+safe: true
+source: docs
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
