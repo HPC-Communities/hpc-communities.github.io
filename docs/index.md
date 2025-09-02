@@ -1,3 +1,10 @@
+---
+layout: default
+description: HPC Communities
+title: home
+id: home
+---
+
 # HPC Communities
 
 <img src="{{site.url}}/images/CASC-and-HPC-SIG.png" style="display: block; margin: auto;" />
