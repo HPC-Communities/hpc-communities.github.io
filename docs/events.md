@@ -1,9 +1,4 @@
----
-layout: default
-description: Our events
-title: Events
-id: events
----
+{% include navbar.html %}
 
 # Events
 

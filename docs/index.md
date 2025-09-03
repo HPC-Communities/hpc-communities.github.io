@@ -1,9 +1,3 @@
----
-description: HPC Communities
-title: home
-id: home
----
-
 {% include navbar.html %}
 
 # HPC Communities
