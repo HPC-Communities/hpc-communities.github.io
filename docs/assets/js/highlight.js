@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+function highlight() {
 	const hash = window.location.hash;
 	if (hash) {
 		const id = hash.substring(1);
@@ -11,3 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
 		}
 	}
 });
+
+window.addEventListener("hashchange", highlight);
+document.addEventListener("DOMContentLoaded", highlight);
+
