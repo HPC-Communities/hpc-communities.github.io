@@ -1,0 +1,19 @@
+@import "{{ site.theme }}";
+
+header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+}
+
+header nav a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: 600;
+}
+
+header nav a:hover {
+  text-decoration: underline;
+}
