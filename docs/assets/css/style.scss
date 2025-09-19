@@ -5,7 +5,8 @@
 
 /* I don't want link to become bold on hover, as it cases layout shift */
 a:hover {
-  font-weight: normal;
+  font-weight: inherit;
+  text-decoration: underline;
 }
 
 /* Custom navigation styles */
