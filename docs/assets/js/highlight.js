@@ -10,7 +10,7 @@ function highlight() {
 			}, 1000);
 		}
 	}
-});
+}
 
 window.addEventListener("hashchange", highlight);
 document.addEventListener("DOMContentLoaded", highlight);
