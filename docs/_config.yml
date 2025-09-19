@@ -18,8 +18,8 @@ kramdown:
   syntax_highlighter: rouge
 
 links:
-  - title: "Mailing List"
-    url: "#mailing-list"
   - title: "Events"
     url: "#events"
+  - title: "Mailing List"
+    url: "#mailing-list"
 
