@@ -29,3 +29,8 @@ header nav a:hover {
   font-weight: 600;
   text-decoration: underline;
 }
+
+.highlighted {
+  background-color: #fff59d; /* light yellow */
+  transition: background-color 1s ease; /* fade out */
+}
