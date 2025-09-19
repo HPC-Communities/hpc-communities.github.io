@@ -1,6 +1,7 @@
-{% include navbar.html %}
-
-# HPC Communities
+---
+layout: default
+title: HPC Communities
+---
 
 <img src="{{site.url}}/images/CASC-and-HPC-SIG.png" style="display: block; margin: auto;" />
 

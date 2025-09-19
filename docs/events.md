@@ -1,4 +1,7 @@
-{% include navbar.html %}
+---
+layout: page
+title: HPC Communities — Events
+---
 
 # Events
 
