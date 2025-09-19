@@ -2,12 +2,20 @@
 ---
 @import "{{ site.theme }}";
 
+
+/* I don't want link to become bold on hover, as it cases layout shift */
+a:hover {
+  font-weight: normal;
+}
+
+/* Custom navigation styles */
 header nav ul {
   list-style: none;
   margin: 0;
   padding: 0;
   display: flex;
-  gap: 1rem;
+  flex-direction: column;
+  gap: 0.5rem;
 }
 
 header nav a {
