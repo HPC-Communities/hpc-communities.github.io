@@ -7,7 +7,7 @@ function highlight() {
 			element.classList.add("highlighted");
 			setTimeout(() => {
 				element.classList.remove("highlighted");
-			}, 1000);
+			}, 500);
 		}
 	}
 }
